@@ -1,0 +1,22 @@
+{
+  "name": "bitcoin_cash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasDamola/bitcoin_cash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasDamola/bitcoin_cash/issues"
+  },
+  "homepage": "https://github.com/pasDamola/bitcoin_cash#readme",
+  "dependencies": {
+    "bitbox-sdk": "^8.8.0"
+  }
+}
