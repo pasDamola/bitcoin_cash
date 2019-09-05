@@ -43,3 +43,5 @@ const TransactionBuilder = require("bitbox-sdk").TransactionBuilder
 let transactionbuilder = new TransactionBuilder()
 const Util = require("bitbox-sdk").Util
 let util = new Util()
+
+console.log(bitbox.Address.toLegacyAddress('qzm47qz5ue99y9yl4aca7jnz7dwgdenl85jkfx3znl'));
